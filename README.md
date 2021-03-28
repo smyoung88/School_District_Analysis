@@ -57,22 +57,22 @@ As seen in the images, the rank of Thomas High School relative to the Overall Pa
 
 ### How does replacing the ninth-grade scores affect the following:
 **1) Math and Reading Scores by Grade**
-
+<br>
 The only effect identified from replacing the ninth-grade scores on math and reading scores was on Thomas High School where previous ninth-grade scores are now displayed as "nan". All other scores from THS and other schools remained the same as previous. 
 <br>
 <br>
 **2) Scores by School Spending**
-
+<br>
 Since only 461 students out of the total student count of 39,170 were impacted (1.18%), the overall story of Scores by School Spending from the original dataset to the dataset with replaced ninth-grade scores did not change. Scores on school spending would only be impacted in the $630-$644 range which is where Thomas High School's per-student budget lies. Major score differences from the THS ninth-grade class' original entries will be reflected in this bucket if there are any when updated.
 <br>
 <br>
 **3) Scores by School Size**
-
+<br>
 Since only 461 students out of the total student count of 39,170 were impacted (1.18%), the overall story of Scores by School Size from the original dataset to the dataset with replaced ninth-grade scores did not change. Scores on school size would only be impacted in the Medium (1000-2000) student range which is where Thomas High School lands with 1635 students. Major score differences from the THS ninth-grade class' original entries will be reflected in this bucket if there are any when updated.
 <br>
 <br>
 **4) Scores by School Type**
-
+<br>
 Since only 461 students out of the total student count of 39,170 were impacted (1.18%), the overall story of Scores by School Type from the original dataset to the dataset with replaced ninth-grade scores did not change. Scores in the "Charter" school type would be the only data impacted as Thomas High School is a charter school. Major score differences from the THS ninth-grade class' original entries will be reflected in this school type only if there are any when updated.
 
 ## Summary
