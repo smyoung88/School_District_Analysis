@@ -12,10 +12,10 @@ The affect of the new dataset on the district summary without Thomas High School
  <br>
 </p>
 <b>District Summary Original</b>
-<br>
+<br><br>
 <img src="https://github.com/smyoung88/School_District_Analysis/blob/main/Resources/district_summary_original.png" title="District Summary Original">
 <b>District Summary New</b>
-<br>
+<br><br>
 <img src="https://github.com/smyoung88/School_District_Analysis/blob/main/Resources/district_summary_new.png" title="District Summary New">
 
 
