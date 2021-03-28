@@ -8,8 +8,8 @@ Analysis on 15 High Schools was compiled for a school board to provide a succinc
 The affect of the new dataset on the district summary without Thomas High School's ninth grade math and reading scores is summarized in the following images:
 
 <p align="center">
-  <b>Affect on District Summary</b>
- <br>
+<b>Affect on District Summary</b>
+<br>
 </p>
 <b>District Original Summary</b>
 <br><br>
@@ -23,14 +23,16 @@ The affect of the new dataset on the district summary without Thomas High School
 The affect of the new dataset on the school summary without Thomas High School's ninth grade math and reading scores is summarized in the following images:
 
 <p align="center">
-  <b>Affect on School Summary</b>
- <br>
+<b>Affect on School Summary</b>
+<br>
 </p>
 <b>School Original Summary</b>
 <br><br>
+<img src="https://github.com/smyoung88/School_District_Analysis/blob/main/Resources/school_summary_header.png">
 <img src="https://github.com/smyoung88/School_District_Analysis/blob/main/Resources/school_summary_original.png" title="School Summary Original">
 <b>School New Summary</b>
 <br><br>
+<img src="https://github.com/smyoung88/School_District_Analysis/blob/main/Resources/school_summary_header.png">
 <img src="https://github.com/smyoung88/School_District_Analysis/blob/main/Resources/school_summary_new.png" title="School Summary New">
 
 
@@ -38,8 +40,8 @@ The affect of the new dataset on the school summary without Thomas High School's
 The affect on performance of replacing the ninth graders' math and reading scores at Thomas High School is summarized in the following images:
 
 <p align="center">
-  <b>Affect Thomas High School's Performance Relative to Other Schools</b>
- <br>
+<b>Affect Thomas High School's Performance Relative to Other Schools</b>
+<br>
 </p>
 <b>THS Original Performance</b>
 <br><br>
