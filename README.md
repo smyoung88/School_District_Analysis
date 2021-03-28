@@ -5,19 +5,21 @@ Analysis on 15 High Schools was compiled for a school board to provide a succinc
 
 ## Results
 ### How is the district summary affected?
-
+The affect of the new dataset on the district summary without Thomas High School's ninth grade math and reading scores is summarized in the following images:
 ### How is the school summary affected?
-
+The affect of the new dataset on the school summary without Thomas High School's ninth grade math and reading scores is summarized in the following images:
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+The affect on performance of replacing the ninth graders' math and reading scores at Thomas High School is summarized in the following images:
 
 ### How does replacing the ninth-grade scores affect the following:
-   #### 1) Math and reading scores by grade
-   
-   #### 2) Scores by school spending
-   
-   #### 3) Scores by school size
-   
-   #### 4) Scores by school type
-
+   #### 1) Math and Reading Scores by Grade
+           The only affect identified from replacing the ninth grade scores on math and reading scores was on Thomas High School where previous ninth grade scores are now                    displayed as "nan". All other scores from THS and other school remained the same as previous. 
+   #### 2) Scores by School Spending
+           Since only 461 students out of the total student count of 39,170 were impacted (1.18%), the overall story of Scores by School Spending from the original dataset to the            dataset with replaced ninth-grade scores did not change.
+   #### 3) Scores by School Size
+           Since only 461 students out of the total student count of 39,170 were impacted (1.18%), the overall story of Scores by School Size from the original dataset to the                dataset with replaced ninth-grade scores did not change.
+   #### 4) Scores by School Type
+           Since only 461 students out of the total student count of 39,170 were impacted (1.18%), the overall story of Scores by School Type from the original dataset to the                dataset with replaced ninth-grade scores did not change.
 ## Summary
-Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+In summary, the four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School were replaced with NaNs all were specific to Thomas High School itself.
+   
