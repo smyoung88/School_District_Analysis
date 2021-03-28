@@ -12,9 +12,9 @@ The affect of the new dataset on the district summary without Thomas High School
  <br>
 </p>
 <b>District Summary Original</b>
-<img src="https://github.com/smyoung88/School_District_Analysis/tree/main/Resources/district_summary_original.png" title="District Summary Original">
+<img src="https://github.com/smyoung88/School_District_Analysis/blob/main/Resources/district_summary_original.png" title="District Summary Original">
 <b>District Summary New</b>
-<img src="https://github.com/smyoung88/School_District_Analysis/tree/main/Resources/district_summary_new.png" title="District Summary New">
+<img src="https://github.com/smyoung88/School_District_Analysis/blob/main/Resources/district_summary_new.png" title="District Summary New">
 
 
 ### How is the school summary affected?
