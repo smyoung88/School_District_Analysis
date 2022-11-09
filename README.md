@@ -3,6 +3,8 @@
 ## Overview
 Analysis on 15 High Schools was compiled for a school board to provide a succinct summary on various metrics for those schools. Upon review of the analysis, the school board gave notification that evidence of academic dishonesty was detected for Thomas High School's ninth-grade reading and math scores which appeared to have been altered. Because of this, the board asked that Thomas High School's math and reading scores be nullified (replaced with NaNs) until the full extent of academic dishonesty had been vetted and new analysis be ran on the updated dataset to see what kind of impact this has on the different metrics.
 
+Two datasets were utilized in this analysis. One data set was for schools which included the school id, school name, type of school, size, and budget. The other was a very large dataset that included student info for all students, 9th through 12th grade, for all schools including student id, student name, gender, grade, school name, reading and math scores. Exploratory Data Analysis performed on the student dataset as there were unnecessary prefixes and suffixes like Mr., Ms., MD, DDS, and PhD. Students likely inputted their data from where this dataset was pulled causing this issue. The data was cleaned and readied for analysis.
+
 ## Results
 ### How is the district summary affected?
 The affect of the new dataset on the district summary without Thomas High School's ninth grade math and reading scores is summarized in the following images:
